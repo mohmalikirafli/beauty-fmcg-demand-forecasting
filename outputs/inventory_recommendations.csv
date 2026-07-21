@@ -1,0 +1,55 @@
+date,sku,product,category,channel,region,units_sold,unit_price,unit_cost,forecast_units,abs_error,demand_std,lead_time_weeks,service_level_z,safety_stock,reorder_point,on_hand_units,recommended_order_units,inventory_status
+2025-12-22,SKN-03,UV Sunscreen,Skincare,Marketplace,Sumatra,126,79000,22000,141,15,37.012416421791954,2,1.645,87,369,460,0,Healthy
+2025-12-22,SKN-03,UV Sunscreen,Skincare,Modern Trade,Bali-Nusra,81,79000,22000,80,1,20.10364295456944,2,1.645,47,207,196,11,Reorder
+2025-12-22,SKN-03,UV Sunscreen,Skincare,Marketplace,Java,177,79000,22000,170,7,46.733596404089674,2,1.645,109,449,594,0,Overstock risk
+2025-12-22,SKN-03,UV Sunscreen,Skincare,Modern Trade,Java,143,79000,22000,139,4,36.459844966706385,2,1.645,85,363,427,0,Healthy
+2025-12-22,MUP-02,Cushion Foundation,Makeup,Modern Trade,Sumatra,69,149000,42000,69,0,15.912965179112142,2,1.645,38,176,112,64,Reorder
+2025-12-22,SKN-03,UV Sunscreen,Skincare,Beauty Store,Sumatra,103,79000,22000,93,10,21.99606183775691,2,1.645,52,238,340,0,Overstock risk
+2025-12-22,MUP-02,Cushion Foundation,Makeup,Beauty Store,Sumatra,48,149000,42000,51,3,12.759534940171992,2,1.645,30,132,163,0,Healthy
+2025-12-22,MUP-02,Cushion Foundation,Makeup,Beauty Store,Java,77,149000,42000,78,1,19.855148998372506,2,1.645,47,203,255,0,Healthy
+2025-12-22,MUP-02,Cushion Foundation,Makeup,Beauty Store,Bali-Nusra,49,149000,42000,42,7,9.919523073890343,2,1.645,24,108,72,36,Reorder
+2025-12-22,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Sumatra,64,69000,18000,75,11,19.990753557130525,2,1.645,47,197,188,9,Reorder
+2025-12-22,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Java,103,69000,18000,100,3,23.294779486119747,2,1.645,55,255,225,30,Reorder
+2025-12-22,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Bali-Nusra,56,69000,18000,60,4,14.333538853740738,2,1.645,34,154,213,0,Overstock risk
+2025-12-22,MUP-01,Matte Lip Cream,Makeup,Marketplace,Sumatra,118,69000,18000,91,27,25.97077118487756,2,1.645,61,243,274,0,Healthy
+2025-12-22,MUP-01,Matte Lip Cream,Makeup,Marketplace,Java,132,69000,18000,122,10,33.007624382310595,2,1.645,77,321,414,0,Healthy
+2025-12-22,MUP-01,Matte Lip Cream,Makeup,Marketplace,Bali-Nusra,65,69000,18000,68,3,15.261741155315782,2,1.645,36,172,163,9,Reorder
+2025-12-22,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Sumatra,56,69000,18000,65,9,13.604514115968662,2,1.645,32,162,122,40,Reorder
+2025-12-22,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Java,80,69000,18000,98,18,21.40448502274401,2,1.645,50,246,258,0,Healthy
+2025-12-22,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Bali-Nusra,42,69000,18000,45,3,10.975663043216912,2,1.645,26,116,70,46,Reorder
+2025-12-22,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Sumatra,106,89000,25000,94,12,17.4961427521151,2,1.645,41,229,297,0,Healthy
+2025-12-22,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Java,126,89000,25000,104,22,26.225267519322752,2,1.645,62,270,302,0,Healthy
+2025-12-22,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Bali-Nusra,68,89000,25000,57,11,12.608365230528811,2,1.645,30,144,177,0,Healthy
+2025-12-22,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Sumatra,104,89000,25000,121,17,23.681621033140466,2,1.645,56,298,259,39,Reorder
+2025-12-22,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Java,154,89000,25000,112,42,35.30731401145533,2,1.645,83,307,437,0,Overstock risk
+2025-12-22,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Bali-Nusra,77,89000,25000,79,2,18.88540972610279,2,1.645,44,202,273,0,Overstock risk
+2025-12-22,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Sumatra,64,89000,25000,64,0,16.992966848967164,2,1.645,40,168,210,0,Healthy
+2025-12-22,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Java,94,89000,25000,102,8,21.568057522699263,2,1.645,51,255,185,70,Reorder
+2025-12-22,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Bali-Nusra,52,89000,25000,66,14,10.726468766010564,2,1.645,25,157,152,5,Reorder
+2025-12-22,MUP-02,Cushion Foundation,Makeup,Marketplace,Bali-Nusra,68,149000,42000,58,10,14.213406035419773,2,1.645,34,150,88,62,Reorder
+2025-12-22,SKN-03,UV Sunscreen,Skincare,Marketplace,Bali-Nusra,141,79000,22000,129,12,25.155971634727795,2,1.645,59,317,218,99,Reorder
+2025-12-22,MUP-02,Cushion Foundation,Makeup,Marketplace,Java,121,149000,42000,95,26,23.103864501241127,2,1.645,54,244,284,0,Healthy
+2025-12-22,MUP-02,Cushion Foundation,Makeup,Modern Trade,Bali-Nusra,48,149000,42000,56,8,12.922111125403104,2,1.645,31,143,175,0,Healthy
+2025-12-22,SKN-03,UV Sunscreen,Skincare,Beauty Store,Java,134,79000,22000,143,9,33.39828561023399,2,1.645,78,364,517,0,Overstock risk
+2025-12-22,SKN-03,UV Sunscreen,Skincare,Beauty Store,Bali-Nusra,67,79000,22000,68,1,16.2102043300265,2,1.645,38,174,147,27,Reorder
+2025-12-22,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Sumatra,89,99000,28000,101,12,21.509910528254935,2,1.645,51,253,224,29,Reorder
+2025-12-22,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Java,138,99000,28000,123,15,31.504252472067147,2,1.645,74,320,311,9,Reorder
+2025-12-22,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Bali-Nusra,78,99000,28000,87,9,13.822774012622531,2,1.645,33,207,149,58,Reorder
+2025-12-22,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Sumatra,153,99000,28000,138,15,25.649761939012343,2,1.645,60,336,224,112,Reorder
+2025-12-22,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Java,212,99000,28000,181,31,38.83254175916407,2,1.645,91,453,443,10,Reorder
+2025-12-22,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Bali-Nusra,137,99000,28000,115,22,22.715132000658045,2,1.645,53,283,213,70,Reorder
+2025-12-22,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Sumatra,70,99000,28000,73,3,17.365981011446426,2,1.645,41,187,216,0,Healthy
+2025-12-22,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Java,130,99000,28000,94,36,26.020034505519188,2,1.645,61,249,235,14,Reorder
+2025-12-22,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Bali-Nusra,49,99000,28000,57,8,12.248851129616977,2,1.645,29,143,186,0,Overstock risk
+2025-12-22,SKN-01,Brightening Serum,Skincare,Modern Trade,Sumatra,110,129000,35000,98,12,24.280128608754428,2,1.645,57,253,299,0,Healthy
+2025-12-22,SKN-01,Brightening Serum,Skincare,Modern Trade,Java,186,129000,35000,148,38,34.702457390177756,2,1.645,81,377,313,64,Reorder
+2025-12-22,SKN-01,Brightening Serum,Skincare,Modern Trade,Bali-Nusra,80,129000,35000,80,0,17.804428274134015,2,1.645,42,202,262,0,Healthy
+2025-12-22,SKN-01,Brightening Serum,Skincare,Marketplace,Sumatra,164,129000,35000,99,65,26.325359482909374,2,1.645,62,260,331,0,Healthy
+2025-12-22,SKN-01,Brightening Serum,Skincare,Marketplace,Java,171,129000,35000,144,27,39.994724026584535,2,1.645,94,382,343,39,Reorder
+2025-12-22,SKN-01,Brightening Serum,Skincare,Marketplace,Bali-Nusra,109,129000,35000,76,33,23.500456830606492,2,1.645,55,207,168,39,Reorder
+2025-12-22,SKN-01,Brightening Serum,Skincare,Beauty Store,Sumatra,76,129000,35000,75,1,18.437182675336658,2,1.645,43,193,225,0,Healthy
+2025-12-22,SKN-01,Brightening Serum,Skincare,Beauty Store,Java,166,129000,35000,136,30,25.29723969273516,2,1.645,59,331,224,107,Reorder
+2025-12-22,SKN-01,Brightening Serum,Skincare,Beauty Store,Bali-Nusra,93,129000,35000,66,27,17.537474545751103,2,1.645,41,173,126,47,Reorder
+2025-12-22,MUP-02,Cushion Foundation,Makeup,Modern Trade,Java,140,149000,42000,118,22,21.544037173072102,2,1.645,51,287,160,127,Reorder
+2025-12-22,MUP-02,Cushion Foundation,Makeup,Marketplace,Sumatra,77,149000,42000,85,8,15.675834782125799,2,1.645,37,207,260,0,Healthy
+2025-12-22,SKN-03,UV Sunscreen,Skincare,Modern Trade,Sumatra,107,79000,22000,101,6,23.112511766343466,2,1.645,54,256,294,0,Healthy

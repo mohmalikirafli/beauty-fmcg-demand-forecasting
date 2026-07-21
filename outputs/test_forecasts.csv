@@ -1,0 +1,649 @@
+date,sku,product,category,channel,region,units_sold,unit_price,unit_cost,forecast_units,abs_error
+2025-10-06,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Bali-Nusra,36,89000,25000,35,1
+2025-10-13,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Bali-Nusra,30,89000,25000,34,4
+2025-10-20,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Bali-Nusra,38,89000,25000,33,5
+2025-10-27,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Bali-Nusra,34,89000,25000,34,0
+2025-11-03,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Bali-Nusra,41,89000,25000,40,1
+2025-11-10,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Bali-Nusra,58,89000,25000,41,17
+2025-11-17,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Bali-Nusra,43,89000,25000,46,3
+2025-11-24,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Bali-Nusra,45,89000,25000,46,1
+2025-12-01,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Bali-Nusra,61,89000,25000,47,14
+2025-12-08,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Bali-Nusra,53,89000,25000,50,3
+2025-12-15,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Bali-Nusra,58,89000,25000,47,11
+2025-12-22,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Bali-Nusra,52,89000,25000,66,14
+2025-10-06,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Java,77,89000,25000,67,10
+2025-10-13,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Java,60,89000,25000,68,8
+2025-10-20,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Java,88,89000,25000,86,2
+2025-10-27,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Java,85,89000,25000,92,7
+2025-11-03,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Java,95,89000,25000,82,13
+2025-11-10,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Java,86,89000,25000,87,1
+2025-11-17,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Java,120,89000,25000,114,6
+2025-11-24,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Java,99,89000,25000,83,16
+2025-12-01,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Java,128,89000,25000,95,33
+2025-12-08,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Java,99,89000,25000,96,3
+2025-12-15,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Java,91,89000,25000,100,9
+2025-12-22,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Java,94,89000,25000,102,8
+2025-10-06,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Sumatra,40,89000,25000,50,10
+2025-10-13,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Sumatra,59,89000,25000,48,11
+2025-10-20,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Sumatra,42,89000,25000,51,9
+2025-10-27,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Sumatra,44,89000,25000,48,4
+2025-11-03,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Sumatra,74,89000,25000,69,5
+2025-11-10,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Sumatra,49,89000,25000,64,15
+2025-11-17,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Sumatra,52,89000,25000,54,2
+2025-11-24,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Sumatra,56,89000,25000,57,1
+2025-12-01,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Sumatra,87,89000,25000,52,35
+2025-12-08,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Sumatra,73,89000,25000,56,17
+2025-12-15,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Sumatra,69,89000,25000,58,11
+2025-12-22,HRC-01,Anti-Hairfall Shampoo,Haircare,Beauty Store,Sumatra,64,89000,25000,64,0
+2025-10-06,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Bali-Nusra,64,89000,25000,55,9
+2025-10-13,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Bali-Nusra,50,89000,25000,58,8
+2025-10-20,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Bali-Nusra,57,89000,25000,56,1
+2025-10-27,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Bali-Nusra,43,89000,25000,62,19
+2025-11-03,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Bali-Nusra,76,89000,25000,75,1
+2025-11-10,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Bali-Nusra,97,89000,25000,78,19
+2025-11-17,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Bali-Nusra,68,89000,25000,71,3
+2025-11-24,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Bali-Nusra,102,89000,25000,82,20
+2025-12-01,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Bali-Nusra,86,89000,25000,80,6
+2025-12-08,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Bali-Nusra,75,89000,25000,78,3
+2025-12-15,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Bali-Nusra,67,89000,25000,73,6
+2025-12-22,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Bali-Nusra,77,89000,25000,79,2
+2025-10-06,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Java,97,89000,25000,99,2
+2025-10-13,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Java,102,89000,25000,92,10
+2025-10-20,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Java,108,89000,25000,111,3
+2025-10-27,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Java,69,89000,25000,96,27
+2025-11-03,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Java,135,89000,25000,124,11
+2025-11-10,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Java,158,89000,25000,104,54
+2025-11-17,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Java,130,89000,25000,122,8
+2025-11-24,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Java,119,89000,25000,117,2
+2025-12-01,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Java,143,89000,25000,123,20
+2025-12-08,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Java,186,89000,25000,126,60
+2025-12-15,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Java,123,89000,25000,128,5
+2025-12-22,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Java,154,89000,25000,112,42
+2025-10-06,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Sumatra,79,89000,25000,85,6
+2025-10-13,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Sumatra,71,89000,25000,79,8
+2025-10-20,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Sumatra,81,89000,25000,79,2
+2025-10-27,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Sumatra,59,89000,25000,81,22
+2025-11-03,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Sumatra,125,89000,25000,87,38
+2025-11-10,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Sumatra,98,89000,25000,84,14
+2025-11-17,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Sumatra,103,89000,25000,94,9
+2025-11-24,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Sumatra,146,89000,25000,120,26
+2025-12-01,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Sumatra,94,89000,25000,99,5
+2025-12-08,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Sumatra,71,89000,25000,99,28
+2025-12-15,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Sumatra,104,89000,25000,100,4
+2025-12-22,HRC-01,Anti-Hairfall Shampoo,Haircare,Marketplace,Sumatra,104,89000,25000,121,17
+2025-10-06,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Bali-Nusra,41,89000,25000,41,0
+2025-10-13,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Bali-Nusra,59,89000,25000,41,18
+2025-10-20,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Bali-Nusra,42,89000,25000,48,6
+2025-10-27,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Bali-Nusra,33,89000,25000,45,12
+2025-11-03,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Bali-Nusra,58,89000,25000,49,9
+2025-11-10,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Bali-Nusra,66,89000,25000,54,12
+2025-11-17,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Bali-Nusra,49,89000,25000,48,1
+2025-11-24,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Bali-Nusra,55,89000,25000,53,2
+2025-12-01,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Bali-Nusra,69,89000,25000,70,1
+2025-12-08,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Bali-Nusra,55,89000,25000,57,2
+2025-12-15,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Bali-Nusra,69,89000,25000,67,2
+2025-12-22,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Bali-Nusra,68,89000,25000,57,11
+2025-10-06,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Java,89,89000,25000,91,2
+2025-10-13,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Java,97,89000,25000,80,17
+2025-10-20,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Java,97,89000,25000,78,19
+2025-10-27,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Java,105,89000,25000,86,19
+2025-11-03,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Java,96,89000,25000,93,3
+2025-11-10,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Java,84,89000,25000,104,20
+2025-11-17,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Java,140,89000,25000,102,38
+2025-11-24,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Java,118,89000,25000,111,7
+2025-12-01,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Java,130,89000,25000,121,9
+2025-12-08,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Java,121,89000,25000,119,2
+2025-12-15,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Java,112,89000,25000,112,0
+2025-12-22,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Java,126,89000,25000,104,22
+2025-10-06,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Sumatra,36,89000,25000,52,16
+2025-10-13,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Sumatra,86,89000,25000,55,31
+2025-10-20,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Sumatra,47,89000,25000,58,11
+2025-10-27,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Sumatra,54,89000,25000,54,0
+2025-11-03,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Sumatra,82,89000,25000,65,17
+2025-11-10,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Sumatra,71,89000,25000,70,1
+2025-11-17,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Sumatra,79,89000,25000,63,16
+2025-11-24,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Sumatra,57,89000,25000,86,29
+2025-12-01,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Sumatra,109,89000,25000,72,37
+2025-12-08,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Sumatra,72,89000,25000,89,17
+2025-12-15,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Sumatra,105,89000,25000,88,17
+2025-12-22,HRC-01,Anti-Hairfall Shampoo,Haircare,Modern Trade,Sumatra,106,89000,25000,94,12
+2025-10-06,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Bali-Nusra,41,69000,18000,32,9
+2025-10-13,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Bali-Nusra,33,69000,18000,35,2
+2025-10-20,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Bali-Nusra,34,69000,18000,33,1
+2025-10-27,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Bali-Nusra,37,69000,18000,36,1
+2025-11-03,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Bali-Nusra,37,69000,18000,40,3
+2025-11-10,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Bali-Nusra,37,69000,18000,40,3
+2025-11-17,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Bali-Nusra,51,69000,18000,41,10
+2025-11-24,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Bali-Nusra,35,69000,18000,43,8
+2025-12-01,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Bali-Nusra,45,69000,18000,42,3
+2025-12-08,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Bali-Nusra,51,69000,18000,44,7
+2025-12-15,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Bali-Nusra,50,69000,18000,44,6
+2025-12-22,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Bali-Nusra,42,69000,18000,45,3
+2025-10-06,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Java,68,69000,18000,67,1
+2025-10-13,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Java,81,69000,18000,66,15
+2025-10-20,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Java,56,69000,18000,62,6
+2025-10-27,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Java,89,69000,18000,90,1
+2025-11-03,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Java,116,69000,18000,110,6
+2025-11-10,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Java,126,69000,18000,102,24
+2025-11-17,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Java,113,69000,18000,119,6
+2025-11-24,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Java,120,69000,18000,121,1
+2025-12-01,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Java,104,69000,18000,93,11
+2025-12-08,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Java,89,69000,18000,93,4
+2025-12-15,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Java,65,69000,18000,94,29
+2025-12-22,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Java,80,69000,18000,98,18
+2025-10-06,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Sumatra,43,69000,18000,51,8
+2025-10-13,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Sumatra,36,69000,18000,47,11
+2025-10-20,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Sumatra,43,69000,18000,49,6
+2025-10-27,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Sumatra,40,69000,18000,43,3
+2025-11-03,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Sumatra,74,69000,18000,59,15
+2025-11-10,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Sumatra,55,69000,18000,63,8
+2025-11-17,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Sumatra,56,69000,18000,54,2
+2025-11-24,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Sumatra,71,69000,18000,53,18
+2025-12-01,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Sumatra,73,69000,18000,60,13
+2025-12-08,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Sumatra,69,69000,18000,58,11
+2025-12-15,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Sumatra,73,69000,18000,65,8
+2025-12-22,MUP-01,Matte Lip Cream,Makeup,Beauty Store,Sumatra,56,69000,18000,65,9
+2025-10-06,MUP-01,Matte Lip Cream,Makeup,Marketplace,Bali-Nusra,61,69000,18000,57,4
+2025-10-13,MUP-01,Matte Lip Cream,Makeup,Marketplace,Bali-Nusra,57,69000,18000,56,1
+2025-10-20,MUP-01,Matte Lip Cream,Makeup,Marketplace,Bali-Nusra,52,69000,18000,57,5
+2025-10-27,MUP-01,Matte Lip Cream,Makeup,Marketplace,Bali-Nusra,77,69000,18000,70,7
+2025-11-03,MUP-01,Matte Lip Cream,Makeup,Marketplace,Bali-Nusra,67,69000,18000,63,4
+2025-11-10,MUP-01,Matte Lip Cream,Makeup,Marketplace,Bali-Nusra,87,69000,18000,81,6
+2025-11-17,MUP-01,Matte Lip Cream,Makeup,Marketplace,Bali-Nusra,69,69000,18000,68,1
+2025-11-24,MUP-01,Matte Lip Cream,Makeup,Marketplace,Bali-Nusra,65,69000,18000,72,7
+2025-12-01,MUP-01,Matte Lip Cream,Makeup,Marketplace,Bali-Nusra,59,69000,18000,67,8
+2025-12-08,MUP-01,Matte Lip Cream,Makeup,Marketplace,Bali-Nusra,76,69000,18000,61,15
+2025-12-15,MUP-01,Matte Lip Cream,Makeup,Marketplace,Bali-Nusra,62,69000,18000,66,4
+2025-12-22,MUP-01,Matte Lip Cream,Makeup,Marketplace,Bali-Nusra,65,69000,18000,68,3
+2025-10-06,MUP-01,Matte Lip Cream,Makeup,Marketplace,Java,91,69000,18000,95,4
+2025-10-13,MUP-01,Matte Lip Cream,Makeup,Marketplace,Java,92,69000,18000,103,11
+2025-10-20,MUP-01,Matte Lip Cream,Makeup,Marketplace,Java,72,69000,18000,90,18
+2025-10-27,MUP-01,Matte Lip Cream,Makeup,Marketplace,Java,77,69000,18000,90,13
+2025-11-03,MUP-01,Matte Lip Cream,Makeup,Marketplace,Java,78,69000,18000,102,24
+2025-11-10,MUP-01,Matte Lip Cream,Makeup,Marketplace,Java,128,69000,18000,104,24
+2025-11-17,MUP-01,Matte Lip Cream,Makeup,Marketplace,Java,164,69000,18000,97,67
+2025-11-24,MUP-01,Matte Lip Cream,Makeup,Marketplace,Java,129,69000,18000,113,16
+2025-12-01,MUP-01,Matte Lip Cream,Makeup,Marketplace,Java,164,69000,18000,116,48
+2025-12-08,MUP-01,Matte Lip Cream,Makeup,Marketplace,Java,152,69000,18000,125,27
+2025-12-15,MUP-01,Matte Lip Cream,Makeup,Marketplace,Java,171,69000,18000,149,22
+2025-12-22,MUP-01,Matte Lip Cream,Makeup,Marketplace,Java,132,69000,18000,122,10
+2025-10-06,MUP-01,Matte Lip Cream,Makeup,Marketplace,Sumatra,73,69000,18000,70,3
+2025-10-13,MUP-01,Matte Lip Cream,Makeup,Marketplace,Sumatra,73,69000,18000,69,4
+2025-10-20,MUP-01,Matte Lip Cream,Makeup,Marketplace,Sumatra,71,69000,18000,81,10
+2025-10-27,MUP-01,Matte Lip Cream,Makeup,Marketplace,Sumatra,74,69000,18000,80,6
+2025-11-03,MUP-01,Matte Lip Cream,Makeup,Marketplace,Sumatra,86,69000,18000,87,1
+2025-11-10,MUP-01,Matte Lip Cream,Makeup,Marketplace,Sumatra,77,69000,18000,86,9
+2025-11-17,MUP-01,Matte Lip Cream,Makeup,Marketplace,Sumatra,96,69000,18000,73,23
+2025-11-24,MUP-01,Matte Lip Cream,Makeup,Marketplace,Sumatra,93,69000,18000,87,6
+2025-12-01,MUP-01,Matte Lip Cream,Makeup,Marketplace,Sumatra,96,69000,18000,87,9
+2025-12-08,MUP-01,Matte Lip Cream,Makeup,Marketplace,Sumatra,143,69000,18000,98,45
+2025-12-15,MUP-01,Matte Lip Cream,Makeup,Marketplace,Sumatra,82,69000,18000,88,6
+2025-12-22,MUP-01,Matte Lip Cream,Makeup,Marketplace,Sumatra,118,69000,18000,91,27
+2025-10-06,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Bali-Nusra,46,69000,18000,46,0
+2025-10-13,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Bali-Nusra,34,69000,18000,46,12
+2025-10-20,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Bali-Nusra,41,69000,18000,45,4
+2025-10-27,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Bali-Nusra,70,69000,18000,49,21
+2025-11-03,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Bali-Nusra,50,69000,18000,54,4
+2025-11-10,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Bali-Nusra,58,69000,18000,54,4
+2025-11-17,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Bali-Nusra,60,69000,18000,80,20
+2025-11-24,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Bali-Nusra,54,69000,18000,56,2
+2025-12-01,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Bali-Nusra,67,69000,18000,53,14
+2025-12-08,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Bali-Nusra,62,69000,18000,55,7
+2025-12-15,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Bali-Nusra,59,69000,18000,55,4
+2025-12-22,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Bali-Nusra,56,69000,18000,60,4
+2025-10-06,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Java,103,69000,18000,73,30
+2025-10-13,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Java,92,69000,18000,81,11
+2025-10-20,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Java,78,69000,18000,91,13
+2025-10-27,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Java,86,69000,18000,87,1
+2025-11-03,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Java,81,69000,18000,103,22
+2025-11-10,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Java,107,69000,18000,95,12
+2025-11-17,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Java,98,69000,18000,103,5
+2025-11-24,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Java,100,69000,18000,89,11
+2025-12-01,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Java,118,69000,18000,101,17
+2025-12-08,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Java,140,69000,18000,136,4
+2025-12-15,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Java,113,69000,18000,107,6
+2025-12-22,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Java,103,69000,18000,100,3
+2025-10-06,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Sumatra,50,69000,18000,55,5
+2025-10-13,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Sumatra,54,69000,18000,53,1
+2025-10-20,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Sumatra,42,69000,18000,53,11
+2025-10-27,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Sumatra,63,69000,18000,51,12
+2025-11-03,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Sumatra,50,69000,18000,62,12
+2025-11-10,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Sumatra,71,69000,18000,63,8
+2025-11-17,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Sumatra,80,69000,18000,56,24
+2025-11-24,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Sumatra,75,69000,18000,63,12
+2025-12-01,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Sumatra,61,69000,18000,66,5
+2025-12-08,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Sumatra,90,69000,18000,69,21
+2025-12-15,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Sumatra,93,69000,18000,76,17
+2025-12-22,MUP-01,Matte Lip Cream,Makeup,Modern Trade,Sumatra,64,69000,18000,75,11
+2025-10-06,MUP-02,Cushion Foundation,Makeup,Beauty Store,Bali-Nusra,23,149000,42000,27,4
+2025-10-13,MUP-02,Cushion Foundation,Makeup,Beauty Store,Bali-Nusra,36,149000,42000,33,3
+2025-10-20,MUP-02,Cushion Foundation,Makeup,Beauty Store,Bali-Nusra,17,149000,42000,29,12
+2025-10-27,MUP-02,Cushion Foundation,Makeup,Beauty Store,Bali-Nusra,20,149000,42000,29,9
+2025-11-03,MUP-02,Cushion Foundation,Makeup,Beauty Store,Bali-Nusra,51,149000,42000,35,16
+2025-11-10,MUP-02,Cushion Foundation,Makeup,Beauty Store,Bali-Nusra,36,149000,42000,35,1
+2025-11-17,MUP-02,Cushion Foundation,Makeup,Beauty Store,Bali-Nusra,39,149000,42000,36,3
+2025-11-24,MUP-02,Cushion Foundation,Makeup,Beauty Store,Bali-Nusra,39,149000,42000,37,2
+2025-12-01,MUP-02,Cushion Foundation,Makeup,Beauty Store,Bali-Nusra,43,149000,42000,40,3
+2025-12-08,MUP-02,Cushion Foundation,Makeup,Beauty Store,Bali-Nusra,39,149000,42000,38,1
+2025-12-15,MUP-02,Cushion Foundation,Makeup,Beauty Store,Bali-Nusra,45,149000,42000,39,6
+2025-12-22,MUP-02,Cushion Foundation,Makeup,Beauty Store,Bali-Nusra,49,149000,42000,42,7
+2025-10-06,MUP-02,Cushion Foundation,Makeup,Beauty Store,Java,57,149000,42000,47,10
+2025-10-13,MUP-02,Cushion Foundation,Makeup,Beauty Store,Java,39,149000,42000,52,13
+2025-10-20,MUP-02,Cushion Foundation,Makeup,Beauty Store,Java,62,149000,42000,61,1
+2025-10-27,MUP-02,Cushion Foundation,Makeup,Beauty Store,Java,57,149000,42000,54,3
+2025-11-03,MUP-02,Cushion Foundation,Makeup,Beauty Store,Java,70,149000,42000,62,8
+2025-11-10,MUP-02,Cushion Foundation,Makeup,Beauty Store,Java,82,149000,42000,60,22
+2025-11-17,MUP-02,Cushion Foundation,Makeup,Beauty Store,Java,74,149000,42000,73,1
+2025-11-24,MUP-02,Cushion Foundation,Makeup,Beauty Store,Java,81,149000,42000,70,11
+2025-12-01,MUP-02,Cushion Foundation,Makeup,Beauty Store,Java,84,149000,42000,77,7
+2025-12-08,MUP-02,Cushion Foundation,Makeup,Beauty Store,Java,111,149000,42000,95,16
+2025-12-15,MUP-02,Cushion Foundation,Makeup,Beauty Store,Java,68,149000,42000,77,9
+2025-12-22,MUP-02,Cushion Foundation,Makeup,Beauty Store,Java,77,149000,42000,78,1
+2025-10-06,MUP-02,Cushion Foundation,Makeup,Beauty Store,Sumatra,50,149000,42000,38,12
+2025-10-13,MUP-02,Cushion Foundation,Makeup,Beauty Store,Sumatra,29,149000,42000,39,10
+2025-10-20,MUP-02,Cushion Foundation,Makeup,Beauty Store,Sumatra,46,149000,42000,39,7
+2025-10-27,MUP-02,Cushion Foundation,Makeup,Beauty Store,Sumatra,38,149000,42000,40,2
+2025-11-03,MUP-02,Cushion Foundation,Makeup,Beauty Store,Sumatra,52,149000,42000,44,8
+2025-11-10,MUP-02,Cushion Foundation,Makeup,Beauty Store,Sumatra,68,149000,42000,46,22
+2025-11-17,MUP-02,Cushion Foundation,Makeup,Beauty Store,Sumatra,93,149000,42000,70,23
+2025-11-24,MUP-02,Cushion Foundation,Makeup,Beauty Store,Sumatra,48,149000,42000,55,7
+2025-12-01,MUP-02,Cushion Foundation,Makeup,Beauty Store,Sumatra,72,149000,42000,58,14
+2025-12-08,MUP-02,Cushion Foundation,Makeup,Beauty Store,Sumatra,54,149000,42000,60,6
+2025-12-15,MUP-02,Cushion Foundation,Makeup,Beauty Store,Sumatra,41,149000,42000,57,16
+2025-12-22,MUP-02,Cushion Foundation,Makeup,Beauty Store,Sumatra,48,149000,42000,51,3
+2025-10-06,MUP-02,Cushion Foundation,Makeup,Marketplace,Bali-Nusra,40,149000,42000,44,4
+2025-10-13,MUP-02,Cushion Foundation,Makeup,Marketplace,Bali-Nusra,36,149000,42000,49,13
+2025-10-20,MUP-02,Cushion Foundation,Makeup,Marketplace,Bali-Nusra,43,149000,42000,42,1
+2025-10-27,MUP-02,Cushion Foundation,Makeup,Marketplace,Bali-Nusra,39,149000,42000,47,8
+2025-11-03,MUP-02,Cushion Foundation,Makeup,Marketplace,Bali-Nusra,56,149000,42000,50,6
+2025-11-10,MUP-02,Cushion Foundation,Makeup,Marketplace,Bali-Nusra,56,149000,42000,52,4
+2025-11-17,MUP-02,Cushion Foundation,Makeup,Marketplace,Bali-Nusra,49,149000,42000,55,6
+2025-11-24,MUP-02,Cushion Foundation,Makeup,Marketplace,Bali-Nusra,55,149000,42000,50,5
+2025-12-01,MUP-02,Cushion Foundation,Makeup,Marketplace,Bali-Nusra,60,149000,42000,54,6
+2025-12-08,MUP-02,Cushion Foundation,Makeup,Marketplace,Bali-Nusra,86,149000,42000,71,15
+2025-12-15,MUP-02,Cushion Foundation,Makeup,Marketplace,Bali-Nusra,76,149000,42000,75,1
+2025-12-22,MUP-02,Cushion Foundation,Makeup,Marketplace,Bali-Nusra,68,149000,42000,58,10
+2025-10-06,MUP-02,Cushion Foundation,Makeup,Marketplace,Java,98,149000,42000,92,6
+2025-10-13,MUP-02,Cushion Foundation,Makeup,Marketplace,Java,72,149000,42000,74,2
+2025-10-20,MUP-02,Cushion Foundation,Makeup,Marketplace,Java,120,149000,42000,90,30
+2025-10-27,MUP-02,Cushion Foundation,Makeup,Marketplace,Java,70,149000,42000,87,17
+2025-11-03,MUP-02,Cushion Foundation,Makeup,Marketplace,Java,126,149000,42000,94,32
+2025-11-10,MUP-02,Cushion Foundation,Makeup,Marketplace,Java,99,149000,42000,101,2
+2025-11-17,MUP-02,Cushion Foundation,Makeup,Marketplace,Java,131,149000,42000,94,37
+2025-11-24,MUP-02,Cushion Foundation,Makeup,Marketplace,Java,119,149000,42000,108,11
+2025-12-01,MUP-02,Cushion Foundation,Makeup,Marketplace,Java,135,149000,42000,105,30
+2025-12-08,MUP-02,Cushion Foundation,Makeup,Marketplace,Java,102,149000,42000,104,2
+2025-12-15,MUP-02,Cushion Foundation,Makeup,Marketplace,Java,113,149000,42000,108,5
+2025-12-22,MUP-02,Cushion Foundation,Makeup,Marketplace,Java,121,149000,42000,95,26
+2025-10-06,MUP-02,Cushion Foundation,Makeup,Marketplace,Sumatra,58,149000,42000,63,5
+2025-10-13,MUP-02,Cushion Foundation,Makeup,Marketplace,Sumatra,67,149000,42000,66,1
+2025-10-20,MUP-02,Cushion Foundation,Makeup,Marketplace,Sumatra,76,149000,42000,64,12
+2025-10-27,MUP-02,Cushion Foundation,Makeup,Marketplace,Sumatra,68,149000,42000,79,11
+2025-11-03,MUP-02,Cushion Foundation,Makeup,Marketplace,Sumatra,98,149000,42000,88,10
+2025-11-10,MUP-02,Cushion Foundation,Makeup,Marketplace,Sumatra,74,149000,42000,79,5
+2025-11-17,MUP-02,Cushion Foundation,Makeup,Marketplace,Sumatra,59,149000,42000,85,26
+2025-11-24,MUP-02,Cushion Foundation,Makeup,Marketplace,Sumatra,81,149000,42000,83,2
+2025-12-01,MUP-02,Cushion Foundation,Makeup,Marketplace,Sumatra,66,149000,42000,76,10
+2025-12-08,MUP-02,Cushion Foundation,Makeup,Marketplace,Sumatra,83,149000,42000,75,8
+2025-12-15,MUP-02,Cushion Foundation,Makeup,Marketplace,Sumatra,90,149000,42000,79,11
+2025-12-22,MUP-02,Cushion Foundation,Makeup,Marketplace,Sumatra,77,149000,42000,85,8
+2025-10-06,MUP-02,Cushion Foundation,Makeup,Modern Trade,Bali-Nusra,31,149000,42000,33,2
+2025-10-13,MUP-02,Cushion Foundation,Makeup,Modern Trade,Bali-Nusra,44,149000,42000,33,11
+2025-10-20,MUP-02,Cushion Foundation,Makeup,Modern Trade,Bali-Nusra,38,149000,42000,35,3
+2025-10-27,MUP-02,Cushion Foundation,Makeup,Modern Trade,Bali-Nusra,38,149000,42000,35,3
+2025-11-03,MUP-02,Cushion Foundation,Makeup,Modern Trade,Bali-Nusra,50,149000,42000,42,8
+2025-11-10,MUP-02,Cushion Foundation,Makeup,Modern Trade,Bali-Nusra,58,149000,42000,45,13
+2025-11-17,MUP-02,Cushion Foundation,Makeup,Modern Trade,Bali-Nusra,43,149000,42000,48,5
+2025-11-24,MUP-02,Cushion Foundation,Makeup,Modern Trade,Bali-Nusra,88,149000,42000,62,26
+2025-12-01,MUP-02,Cushion Foundation,Makeup,Modern Trade,Bali-Nusra,68,149000,42000,77,9
+2025-12-08,MUP-02,Cushion Foundation,Makeup,Modern Trade,Bali-Nusra,36,149000,42000,55,19
+2025-12-15,MUP-02,Cushion Foundation,Makeup,Modern Trade,Bali-Nusra,56,149000,42000,48,8
+2025-12-22,MUP-02,Cushion Foundation,Makeup,Modern Trade,Bali-Nusra,48,149000,42000,56,8
+2025-10-06,MUP-02,Cushion Foundation,Makeup,Modern Trade,Java,67,149000,42000,67,0
+2025-10-13,MUP-02,Cushion Foundation,Makeup,Modern Trade,Java,77,149000,42000,83,6
+2025-10-20,MUP-02,Cushion Foundation,Makeup,Modern Trade,Java,79,149000,42000,64,15
+2025-10-27,MUP-02,Cushion Foundation,Makeup,Modern Trade,Java,61,149000,42000,69,8
+2025-11-03,MUP-02,Cushion Foundation,Makeup,Modern Trade,Java,79,149000,42000,82,3
+2025-11-10,MUP-02,Cushion Foundation,Makeup,Modern Trade,Java,77,149000,42000,83,6
+2025-11-17,MUP-02,Cushion Foundation,Makeup,Modern Trade,Java,84,149000,42000,77,7
+2025-11-24,MUP-02,Cushion Foundation,Makeup,Modern Trade,Java,90,149000,42000,77,13
+2025-12-01,MUP-02,Cushion Foundation,Makeup,Modern Trade,Java,83,149000,42000,84,1
+2025-12-08,MUP-02,Cushion Foundation,Makeup,Modern Trade,Java,109,149000,42000,84,25
+2025-12-15,MUP-02,Cushion Foundation,Makeup,Modern Trade,Java,96,149000,42000,92,4
+2025-12-22,MUP-02,Cushion Foundation,Makeup,Modern Trade,Java,140,149000,42000,118,22
+2025-10-06,MUP-02,Cushion Foundation,Makeup,Modern Trade,Sumatra,41,149000,42000,52,11
+2025-10-13,MUP-02,Cushion Foundation,Makeup,Modern Trade,Sumatra,38,149000,42000,49,11
+2025-10-20,MUP-02,Cushion Foundation,Makeup,Modern Trade,Sumatra,58,149000,42000,48,10
+2025-10-27,MUP-02,Cushion Foundation,Makeup,Modern Trade,Sumatra,47,149000,42000,50,3
+2025-11-03,MUP-02,Cushion Foundation,Makeup,Modern Trade,Sumatra,41,149000,42000,48,7
+2025-11-10,MUP-02,Cushion Foundation,Makeup,Modern Trade,Sumatra,40,149000,42000,49,9
+2025-11-17,MUP-02,Cushion Foundation,Makeup,Modern Trade,Sumatra,95,149000,42000,63,32
+2025-11-24,MUP-02,Cushion Foundation,Makeup,Modern Trade,Sumatra,83,149000,42000,77,6
+2025-12-01,MUP-02,Cushion Foundation,Makeup,Modern Trade,Sumatra,94,149000,42000,60,34
+2025-12-08,MUP-02,Cushion Foundation,Makeup,Modern Trade,Sumatra,56,149000,42000,70,14
+2025-12-15,MUP-02,Cushion Foundation,Makeup,Modern Trade,Sumatra,62,149000,42000,73,11
+2025-12-22,MUP-02,Cushion Foundation,Makeup,Modern Trade,Sumatra,69,149000,42000,69,0
+2025-10-06,SKN-01,Brightening Serum,Skincare,Beauty Store,Bali-Nusra,39,129000,35000,40,1
+2025-10-13,SKN-01,Brightening Serum,Skincare,Beauty Store,Bali-Nusra,42,129000,35000,36,6
+2025-10-20,SKN-01,Brightening Serum,Skincare,Beauty Store,Bali-Nusra,56,129000,35000,37,19
+2025-10-27,SKN-01,Brightening Serum,Skincare,Beauty Store,Bali-Nusra,45,129000,35000,42,3
+2025-11-03,SKN-01,Brightening Serum,Skincare,Beauty Store,Bali-Nusra,82,129000,35000,63,19
+2025-11-10,SKN-01,Brightening Serum,Skincare,Beauty Store,Bali-Nusra,59,129000,35000,57,2
+2025-11-17,SKN-01,Brightening Serum,Skincare,Beauty Store,Bali-Nusra,51,129000,35000,57,6
+2025-11-24,SKN-01,Brightening Serum,Skincare,Beauty Store,Bali-Nusra,61,129000,35000,50,11
+2025-12-01,SKN-01,Brightening Serum,Skincare,Beauty Store,Bali-Nusra,67,129000,35000,58,9
+2025-12-08,SKN-01,Brightening Serum,Skincare,Beauty Store,Bali-Nusra,62,129000,35000,55,7
+2025-12-15,SKN-01,Brightening Serum,Skincare,Beauty Store,Bali-Nusra,43,129000,35000,54,11
+2025-12-22,SKN-01,Brightening Serum,Skincare,Beauty Store,Bali-Nusra,93,129000,35000,66,27
+2025-10-06,SKN-01,Brightening Serum,Skincare,Beauty Store,Java,98,129000,35000,84,14
+2025-10-13,SKN-01,Brightening Serum,Skincare,Beauty Store,Java,116,129000,35000,89,27
+2025-10-20,SKN-01,Brightening Serum,Skincare,Beauty Store,Java,46,129000,35000,79,33
+2025-10-27,SKN-01,Brightening Serum,Skincare,Beauty Store,Java,71,129000,35000,77,6
+2025-11-03,SKN-01,Brightening Serum,Skincare,Beauty Store,Java,105,129000,35000,105,0
+2025-11-10,SKN-01,Brightening Serum,Skincare,Beauty Store,Java,114,129000,35000,93,21
+2025-11-17,SKN-01,Brightening Serum,Skincare,Beauty Store,Java,147,129000,35000,88,59
+2025-11-24,SKN-01,Brightening Serum,Skincare,Beauty Store,Java,98,129000,35000,106,8
+2025-12-01,SKN-01,Brightening Serum,Skincare,Beauty Store,Java,122,129000,35000,114,8
+2025-12-08,SKN-01,Brightening Serum,Skincare,Beauty Store,Java,135,129000,35000,115,20
+2025-12-15,SKN-01,Brightening Serum,Skincare,Beauty Store,Java,118,129000,35000,108,10
+2025-12-22,SKN-01,Brightening Serum,Skincare,Beauty Store,Java,166,129000,35000,136,30
+2025-10-06,SKN-01,Brightening Serum,Skincare,Beauty Store,Sumatra,67,129000,35000,48,19
+2025-10-13,SKN-01,Brightening Serum,Skincare,Beauty Store,Sumatra,72,129000,35000,54,18
+2025-10-20,SKN-01,Brightening Serum,Skincare,Beauty Store,Sumatra,58,129000,35000,58,0
+2025-10-27,SKN-01,Brightening Serum,Skincare,Beauty Store,Sumatra,61,129000,35000,65,4
+2025-11-03,SKN-01,Brightening Serum,Skincare,Beauty Store,Sumatra,67,129000,35000,64,3
+2025-11-10,SKN-01,Brightening Serum,Skincare,Beauty Store,Sumatra,75,129000,35000,64,11
+2025-11-17,SKN-01,Brightening Serum,Skincare,Beauty Store,Sumatra,95,129000,35000,78,17
+2025-11-24,SKN-01,Brightening Serum,Skincare,Beauty Store,Sumatra,84,129000,35000,88,4
+2025-12-01,SKN-01,Brightening Serum,Skincare,Beauty Store,Sumatra,60,129000,35000,83,23
+2025-12-08,SKN-01,Brightening Serum,Skincare,Beauty Store,Sumatra,106,129000,35000,106,0
+2025-12-15,SKN-01,Brightening Serum,Skincare,Beauty Store,Sumatra,85,129000,35000,71,14
+2025-12-22,SKN-01,Brightening Serum,Skincare,Beauty Store,Sumatra,76,129000,35000,75,1
+2025-10-06,SKN-01,Brightening Serum,Skincare,Marketplace,Bali-Nusra,70,129000,35000,64,6
+2025-10-13,SKN-01,Brightening Serum,Skincare,Marketplace,Bali-Nusra,55,129000,35000,59,4
+2025-10-20,SKN-01,Brightening Serum,Skincare,Marketplace,Bali-Nusra,62,129000,35000,62,0
+2025-10-27,SKN-01,Brightening Serum,Skincare,Marketplace,Bali-Nusra,61,129000,35000,60,1
+2025-11-03,SKN-01,Brightening Serum,Skincare,Marketplace,Bali-Nusra,74,129000,35000,67,7
+2025-11-10,SKN-01,Brightening Serum,Skincare,Marketplace,Bali-Nusra,91,129000,35000,66,25
+2025-11-17,SKN-01,Brightening Serum,Skincare,Marketplace,Bali-Nusra,123,129000,35000,104,19
+2025-11-24,SKN-01,Brightening Serum,Skincare,Marketplace,Bali-Nusra,72,129000,35000,75,3
+2025-12-01,SKN-01,Brightening Serum,Skincare,Marketplace,Bali-Nusra,101,129000,35000,81,20
+2025-12-08,SKN-01,Brightening Serum,Skincare,Marketplace,Bali-Nusra,97,129000,35000,82,15
+2025-12-15,SKN-01,Brightening Serum,Skincare,Marketplace,Bali-Nusra,107,129000,35000,85,22
+2025-12-22,SKN-01,Brightening Serum,Skincare,Marketplace,Bali-Nusra,109,129000,35000,76,33
+2025-10-06,SKN-01,Brightening Serum,Skincare,Marketplace,Java,96,129000,35000,99,3
+2025-10-13,SKN-01,Brightening Serum,Skincare,Marketplace,Java,141,129000,35000,93,48
+2025-10-20,SKN-01,Brightening Serum,Skincare,Marketplace,Java,142,129000,35000,136,6
+2025-10-27,SKN-01,Brightening Serum,Skincare,Marketplace,Java,143,129000,35000,112,31
+2025-11-03,SKN-01,Brightening Serum,Skincare,Marketplace,Java,186,129000,35000,144,42
+2025-11-10,SKN-01,Brightening Serum,Skincare,Marketplace,Java,153,129000,35000,149,4
+2025-11-17,SKN-01,Brightening Serum,Skincare,Marketplace,Java,117,129000,35000,140,23
+2025-11-24,SKN-01,Brightening Serum,Skincare,Marketplace,Java,136,129000,35000,145,9
+2025-12-01,SKN-01,Brightening Serum,Skincare,Marketplace,Java,168,129000,35000,135,33
+2025-12-08,SKN-01,Brightening Serum,Skincare,Marketplace,Java,237,129000,35000,167,70
+2025-12-15,SKN-01,Brightening Serum,Skincare,Marketplace,Java,161,129000,35000,172,11
+2025-12-22,SKN-01,Brightening Serum,Skincare,Marketplace,Java,171,129000,35000,144,27
+2025-10-06,SKN-01,Brightening Serum,Skincare,Marketplace,Sumatra,68,129000,35000,112,44
+2025-10-13,SKN-01,Brightening Serum,Skincare,Marketplace,Sumatra,59,129000,35000,82,23
+2025-10-20,SKN-01,Brightening Serum,Skincare,Marketplace,Sumatra,104,129000,35000,101,3
+2025-10-27,SKN-01,Brightening Serum,Skincare,Marketplace,Sumatra,90,129000,35000,86,4
+2025-11-03,SKN-01,Brightening Serum,Skincare,Marketplace,Sumatra,120,129000,35000,100,20
+2025-11-10,SKN-01,Brightening Serum,Skincare,Marketplace,Sumatra,127,129000,35000,95,32
+2025-11-17,SKN-01,Brightening Serum,Skincare,Marketplace,Sumatra,105,129000,35000,108,3
+2025-11-24,SKN-01,Brightening Serum,Skincare,Marketplace,Sumatra,74,129000,35000,104,30
+2025-12-01,SKN-01,Brightening Serum,Skincare,Marketplace,Sumatra,68,129000,35000,98,30
+2025-12-08,SKN-01,Brightening Serum,Skincare,Marketplace,Sumatra,138,129000,35000,125,13
+2025-12-15,SKN-01,Brightening Serum,Skincare,Marketplace,Sumatra,121,129000,35000,102,19
+2025-12-22,SKN-01,Brightening Serum,Skincare,Marketplace,Sumatra,164,129000,35000,99,65
+2025-10-06,SKN-01,Brightening Serum,Skincare,Modern Trade,Bali-Nusra,81,129000,35000,73,8
+2025-10-13,SKN-01,Brightening Serum,Skincare,Modern Trade,Bali-Nusra,52,129000,35000,55,3
+2025-10-20,SKN-01,Brightening Serum,Skincare,Modern Trade,Bali-Nusra,59,129000,35000,55,4
+2025-10-27,SKN-01,Brightening Serum,Skincare,Modern Trade,Bali-Nusra,60,129000,35000,57,3
+2025-11-03,SKN-01,Brightening Serum,Skincare,Modern Trade,Bali-Nusra,83,129000,35000,85,2
+2025-11-10,SKN-01,Brightening Serum,Skincare,Modern Trade,Bali-Nusra,72,129000,35000,65,7
+2025-11-17,SKN-01,Brightening Serum,Skincare,Modern Trade,Bali-Nusra,70,129000,35000,63,7
+2025-11-24,SKN-01,Brightening Serum,Skincare,Modern Trade,Bali-Nusra,90,129000,35000,82,8
+2025-12-01,SKN-01,Brightening Serum,Skincare,Modern Trade,Bali-Nusra,108,129000,35000,97,11
+2025-12-08,SKN-01,Brightening Serum,Skincare,Modern Trade,Bali-Nusra,90,129000,35000,74,16
+2025-12-15,SKN-01,Brightening Serum,Skincare,Modern Trade,Bali-Nusra,72,129000,35000,75,3
+2025-12-22,SKN-01,Brightening Serum,Skincare,Modern Trade,Bali-Nusra,80,129000,35000,80,0
+2025-10-06,SKN-01,Brightening Serum,Skincare,Modern Trade,Java,92,129000,35000,97,5
+2025-10-13,SKN-01,Brightening Serum,Skincare,Modern Trade,Java,98,129000,35000,89,9
+2025-10-20,SKN-01,Brightening Serum,Skincare,Modern Trade,Java,91,129000,35000,87,4
+2025-10-27,SKN-01,Brightening Serum,Skincare,Modern Trade,Java,100,129000,35000,93,7
+2025-11-03,SKN-01,Brightening Serum,Skincare,Modern Trade,Java,142,129000,35000,106,36
+2025-11-10,SKN-01,Brightening Serum,Skincare,Modern Trade,Java,137,129000,35000,122,15
+2025-11-17,SKN-01,Brightening Serum,Skincare,Modern Trade,Java,187,129000,35000,159,28
+2025-11-24,SKN-01,Brightening Serum,Skincare,Modern Trade,Java,124,129000,35000,136,12
+2025-12-01,SKN-01,Brightening Serum,Skincare,Modern Trade,Java,227,129000,35000,174,53
+2025-12-08,SKN-01,Brightening Serum,Skincare,Modern Trade,Java,131,129000,35000,153,22
+2025-12-15,SKN-01,Brightening Serum,Skincare,Modern Trade,Java,130,129000,35000,125,5
+2025-12-22,SKN-01,Brightening Serum,Skincare,Modern Trade,Java,186,129000,35000,148,38
+2025-10-06,SKN-01,Brightening Serum,Skincare,Modern Trade,Sumatra,92,129000,35000,84,8
+2025-10-13,SKN-01,Brightening Serum,Skincare,Modern Trade,Sumatra,72,129000,35000,83,11
+2025-10-20,SKN-01,Brightening Serum,Skincare,Modern Trade,Sumatra,69,129000,35000,77,8
+2025-10-27,SKN-01,Brightening Serum,Skincare,Modern Trade,Sumatra,69,129000,35000,84,15
+2025-11-03,SKN-01,Brightening Serum,Skincare,Modern Trade,Sumatra,122,129000,35000,106,16
+2025-11-10,SKN-01,Brightening Serum,Skincare,Modern Trade,Sumatra,86,129000,35000,88,2
+2025-11-17,SKN-01,Brightening Serum,Skincare,Modern Trade,Sumatra,86,129000,35000,96,10
+2025-11-24,SKN-01,Brightening Serum,Skincare,Modern Trade,Sumatra,98,129000,35000,95,3
+2025-12-01,SKN-01,Brightening Serum,Skincare,Modern Trade,Sumatra,121,129000,35000,115,6
+2025-12-08,SKN-01,Brightening Serum,Skincare,Modern Trade,Sumatra,104,129000,35000,95,9
+2025-12-15,SKN-01,Brightening Serum,Skincare,Modern Trade,Sumatra,114,129000,35000,90,24
+2025-12-22,SKN-01,Brightening Serum,Skincare,Modern Trade,Sumatra,110,129000,35000,98,12
+2025-10-06,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Bali-Nusra,40,99000,28000,36,4
+2025-10-13,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Bali-Nusra,32,99000,28000,37,5
+2025-10-20,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Bali-Nusra,47,99000,28000,42,5
+2025-10-27,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Bali-Nusra,42,99000,28000,38,4
+2025-11-03,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Bali-Nusra,49,99000,28000,43,6
+2025-11-10,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Bali-Nusra,51,99000,28000,46,5
+2025-11-17,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Bali-Nusra,55,99000,28000,49,6
+2025-11-24,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Bali-Nusra,71,99000,28000,62,9
+2025-12-01,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Bali-Nusra,55,99000,28000,49,6
+2025-12-08,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Bali-Nusra,66,99000,28000,52,14
+2025-12-15,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Bali-Nusra,64,99000,28000,57,7
+2025-12-22,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Bali-Nusra,49,99000,28000,57,8
+2025-10-06,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Java,73,99000,28000,62,11
+2025-10-13,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Java,69,99000,28000,63,6
+2025-10-20,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Java,84,99000,28000,64,20
+2025-10-27,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Java,81,99000,28000,73,8
+2025-11-03,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Java,92,99000,28000,86,6
+2025-11-10,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Java,120,99000,28000,92,28
+2025-11-17,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Java,95,99000,28000,83,12
+2025-11-24,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Java,118,99000,28000,117,1
+2025-12-01,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Java,54,99000,28000,94,40
+2025-12-08,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Java,137,99000,28000,87,50
+2025-12-15,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Java,101,99000,28000,105,4
+2025-12-22,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Java,130,99000,28000,94,36
+2025-10-06,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Sumatra,18,99000,28000,47,29
+2025-10-13,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Sumatra,61,99000,28000,42,19
+2025-10-20,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Sumatra,51,99000,28000,58,7
+2025-10-27,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Sumatra,49,99000,28000,46,3
+2025-11-03,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Sumatra,63,99000,28000,52,11
+2025-11-10,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Sumatra,78,99000,28000,58,20
+2025-11-17,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Sumatra,76,99000,28000,61,15
+2025-11-24,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Sumatra,82,99000,28000,62,20
+2025-12-01,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Sumatra,71,99000,28000,73,2
+2025-12-08,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Sumatra,92,99000,28000,74,18
+2025-12-15,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Sumatra,63,99000,28000,74,11
+2025-12-22,SKN-02,Barrier Moisturizer,Skincare,Beauty Store,Sumatra,70,99000,28000,73,3
+2025-10-06,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Bali-Nusra,61,99000,28000,54,7
+2025-10-13,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Bali-Nusra,61,99000,28000,62,1
+2025-10-20,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Bali-Nusra,57,99000,28000,63,6
+2025-10-27,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Bali-Nusra,57,99000,28000,61,4
+2025-11-03,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Bali-Nusra,75,99000,28000,74,1
+2025-11-10,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Bali-Nusra,94,99000,28000,79,15
+2025-11-17,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Bali-Nusra,69,99000,28000,77,8
+2025-11-24,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Bali-Nusra,70,99000,28000,77,7
+2025-12-01,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Bali-Nusra,82,99000,28000,75,7
+2025-12-08,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Bali-Nusra,101,99000,28000,79,22
+2025-12-15,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Bali-Nusra,118,99000,28000,77,41
+2025-12-22,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Bali-Nusra,137,99000,28000,115,22
+2025-10-06,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Java,105,99000,28000,89,16
+2025-10-13,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Java,88,99000,28000,108,20
+2025-10-20,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Java,101,99000,28000,108,7
+2025-10-27,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Java,128,99000,28000,108,20
+2025-11-03,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Java,134,99000,28000,118,16
+2025-11-10,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Java,118,99000,28000,128,10
+2025-11-17,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Java,103,99000,28000,110,7
+2025-11-24,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Java,200,99000,28000,146,54
+2025-12-01,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Java,172,99000,28000,130,42
+2025-12-08,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Java,128,99000,28000,135,7
+2025-12-15,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Java,199,99000,28000,174,25
+2025-12-22,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Java,212,99000,28000,181,31
+2025-10-06,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Sumatra,69,99000,28000,71,2
+2025-10-13,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Sumatra,71,99000,28000,92,21
+2025-10-20,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Sumatra,74,99000,28000,81,7
+2025-10-27,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Sumatra,59,99000,28000,87,28
+2025-11-03,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Sumatra,55,99000,28000,95,40
+2025-11-10,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Sumatra,114,99000,28000,74,40
+2025-11-17,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Sumatra,88,99000,28000,83,5
+2025-11-24,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Sumatra,101,99000,28000,101,0
+2025-12-01,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Sumatra,111,99000,28000,92,19
+2025-12-08,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Sumatra,141,99000,28000,119,22
+2025-12-15,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Sumatra,86,99000,28000,104,18
+2025-12-22,SKN-02,Barrier Moisturizer,Skincare,Marketplace,Sumatra,153,99000,28000,138,15
+2025-10-06,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Bali-Nusra,50,99000,28000,57,7
+2025-10-13,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Bali-Nusra,50,99000,28000,60,10
+2025-10-20,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Bali-Nusra,50,99000,28000,47,3
+2025-10-27,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Bali-Nusra,61,99000,28000,47,14
+2025-11-03,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Bali-Nusra,57,99000,28000,59,2
+2025-11-10,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Bali-Nusra,60,99000,28000,60,0
+2025-11-17,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Bali-Nusra,52,99000,28000,56,4
+2025-11-24,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Bali-Nusra,78,99000,28000,55,23
+2025-12-01,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Bali-Nusra,53,99000,28000,61,8
+2025-12-08,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Bali-Nusra,62,99000,28000,55,7
+2025-12-15,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Bali-Nusra,77,99000,28000,59,18
+2025-12-22,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Bali-Nusra,78,99000,28000,87,9
+2025-10-06,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Java,114,99000,28000,91,23
+2025-10-13,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Java,107,99000,28000,88,19
+2025-10-20,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Java,86,99000,28000,100,14
+2025-10-27,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Java,82,99000,28000,106,24
+2025-11-03,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Java,104,99000,28000,112,8
+2025-11-10,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Java,106,99000,28000,106,0
+2025-11-17,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Java,100,99000,28000,103,3
+2025-11-24,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Java,132,99000,28000,107,25
+2025-12-01,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Java,220,99000,28000,135,85
+2025-12-08,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Java,116,99000,28000,138,22
+2025-12-15,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Java,194,99000,28000,149,45
+2025-12-22,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Java,138,99000,28000,123,15
+2025-10-06,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Sumatra,91,99000,28000,92,1
+2025-10-13,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Sumatra,59,99000,28000,70,11
+2025-10-20,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Sumatra,71,99000,28000,90,19
+2025-10-27,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Sumatra,60,99000,28000,78,18
+2025-11-03,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Sumatra,110,99000,28000,96,14
+2025-11-10,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Sumatra,72,99000,28000,83,11
+2025-11-17,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Sumatra,79,99000,28000,88,9
+2025-11-24,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Sumatra,101,99000,28000,103,2
+2025-12-01,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Sumatra,122,99000,28000,116,6
+2025-12-08,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Sumatra,77,99000,28000,84,7
+2025-12-15,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Sumatra,136,99000,28000,119,17
+2025-12-22,SKN-02,Barrier Moisturizer,Skincare,Modern Trade,Sumatra,89,99000,28000,101,12
+2025-10-06,SKN-03,UV Sunscreen,Skincare,Beauty Store,Bali-Nusra,48,79000,22000,48,0
+2025-10-13,SKN-03,UV Sunscreen,Skincare,Beauty Store,Bali-Nusra,44,79000,22000,49,5
+2025-10-20,SKN-03,UV Sunscreen,Skincare,Beauty Store,Bali-Nusra,59,79000,22000,47,12
+2025-10-27,SKN-03,UV Sunscreen,Skincare,Beauty Store,Bali-Nusra,54,79000,22000,53,1
+2025-11-03,SKN-03,UV Sunscreen,Skincare,Beauty Store,Bali-Nusra,84,79000,22000,70,14
+2025-11-10,SKN-03,UV Sunscreen,Skincare,Beauty Store,Bali-Nusra,67,79000,22000,60,7
+2025-11-17,SKN-03,UV Sunscreen,Skincare,Beauty Store,Bali-Nusra,86,79000,22000,88,2
+2025-11-24,SKN-03,UV Sunscreen,Skincare,Beauty Store,Bali-Nusra,71,79000,22000,91,20
+2025-12-01,SKN-03,UV Sunscreen,Skincare,Beauty Store,Bali-Nusra,89,79000,22000,102,13
+2025-12-08,SKN-03,UV Sunscreen,Skincare,Beauty Store,Bali-Nusra,73,79000,22000,74,1
+2025-12-15,SKN-03,UV Sunscreen,Skincare,Beauty Store,Bali-Nusra,64,79000,22000,74,10
+2025-12-22,SKN-03,UV Sunscreen,Skincare,Beauty Store,Bali-Nusra,67,79000,22000,68,1
+2025-10-06,SKN-03,UV Sunscreen,Skincare,Beauty Store,Java,80,79000,22000,89,9
+2025-10-13,SKN-03,UV Sunscreen,Skincare,Beauty Store,Java,91,79000,22000,80,11
+2025-10-20,SKN-03,UV Sunscreen,Skincare,Beauty Store,Java,59,79000,22000,81,22
+2025-10-27,SKN-03,UV Sunscreen,Skincare,Beauty Store,Java,121,79000,22000,99,22
+2025-11-03,SKN-03,UV Sunscreen,Skincare,Beauty Store,Java,122,79000,22000,106,16
+2025-11-10,SKN-03,UV Sunscreen,Skincare,Beauty Store,Java,117,79000,22000,98,19
+2025-11-17,SKN-03,UV Sunscreen,Skincare,Beauty Store,Java,90,79000,22000,90,0
+2025-11-24,SKN-03,UV Sunscreen,Skincare,Beauty Store,Java,160,79000,22000,107,53
+2025-12-01,SKN-03,UV Sunscreen,Skincare,Beauty Store,Java,140,79000,22000,123,17
+2025-12-08,SKN-03,UV Sunscreen,Skincare,Beauty Store,Java,159,79000,22000,123,36
+2025-12-15,SKN-03,UV Sunscreen,Skincare,Beauty Store,Java,139,79000,22000,122,17
+2025-12-22,SKN-03,UV Sunscreen,Skincare,Beauty Store,Java,134,79000,22000,143,9
+2025-10-06,SKN-03,UV Sunscreen,Skincare,Beauty Store,Sumatra,80,79000,22000,58,22
+2025-10-13,SKN-03,UV Sunscreen,Skincare,Beauty Store,Sumatra,68,79000,22000,70,2
+2025-10-20,SKN-03,UV Sunscreen,Skincare,Beauty Store,Sumatra,48,79000,22000,61,13
+2025-10-27,SKN-03,UV Sunscreen,Skincare,Beauty Store,Sumatra,59,79000,22000,65,6
+2025-11-03,SKN-03,UV Sunscreen,Skincare,Beauty Store,Sumatra,84,79000,22000,63,21
+2025-11-10,SKN-03,UV Sunscreen,Skincare,Beauty Store,Sumatra,72,79000,22000,68,4
+2025-11-17,SKN-03,UV Sunscreen,Skincare,Beauty Store,Sumatra,87,79000,22000,69,18
+2025-11-24,SKN-03,UV Sunscreen,Skincare,Beauty Store,Sumatra,78,79000,22000,79,1
+2025-12-01,SKN-03,UV Sunscreen,Skincare,Beauty Store,Sumatra,104,79000,22000,92,12
+2025-12-08,SKN-03,UV Sunscreen,Skincare,Beauty Store,Sumatra,89,79000,22000,87,2
+2025-12-15,SKN-03,UV Sunscreen,Skincare,Beauty Store,Sumatra,98,79000,22000,77,21
+2025-12-22,SKN-03,UV Sunscreen,Skincare,Beauty Store,Sumatra,103,79000,22000,93,10
+2025-10-06,SKN-03,UV Sunscreen,Skincare,Marketplace,Bali-Nusra,81,79000,22000,68,13
+2025-10-13,SKN-03,UV Sunscreen,Skincare,Marketplace,Bali-Nusra,98,79000,22000,98,0
+2025-10-20,SKN-03,UV Sunscreen,Skincare,Marketplace,Bali-Nusra,84,79000,22000,71,13
+2025-10-27,SKN-03,UV Sunscreen,Skincare,Marketplace,Bali-Nusra,71,79000,22000,84,13
+2025-11-03,SKN-03,UV Sunscreen,Skincare,Marketplace,Bali-Nusra,115,79000,22000,81,34
+2025-11-10,SKN-03,UV Sunscreen,Skincare,Marketplace,Bali-Nusra,156,79000,22000,124,32
+2025-11-17,SKN-03,UV Sunscreen,Skincare,Marketplace,Bali-Nusra,169,79000,22000,129,40
+2025-11-24,SKN-03,UV Sunscreen,Skincare,Marketplace,Bali-Nusra,103,79000,22000,105,2
+2025-12-01,SKN-03,UV Sunscreen,Skincare,Marketplace,Bali-Nusra,109,79000,22000,126,17
+2025-12-08,SKN-03,UV Sunscreen,Skincare,Marketplace,Bali-Nusra,95,79000,22000,121,26
+2025-12-15,SKN-03,UV Sunscreen,Skincare,Marketplace,Bali-Nusra,88,79000,22000,108,20
+2025-12-22,SKN-03,UV Sunscreen,Skincare,Marketplace,Bali-Nusra,141,79000,22000,129,12
+2025-10-06,SKN-03,UV Sunscreen,Skincare,Marketplace,Java,124,79000,22000,153,29
+2025-10-13,SKN-03,UV Sunscreen,Skincare,Marketplace,Java,161,79000,22000,176,15
+2025-10-20,SKN-03,UV Sunscreen,Skincare,Marketplace,Java,101,79000,22000,138,37
+2025-10-27,SKN-03,UV Sunscreen,Skincare,Marketplace,Java,171,79000,22000,134,37
+2025-11-03,SKN-03,UV Sunscreen,Skincare,Marketplace,Java,182,79000,22000,144,38
+2025-11-10,SKN-03,UV Sunscreen,Skincare,Marketplace,Java,192,79000,22000,177,15
+2025-11-17,SKN-03,UV Sunscreen,Skincare,Marketplace,Java,188,79000,22000,169,19
+2025-11-24,SKN-03,UV Sunscreen,Skincare,Marketplace,Java,189,79000,22000,162,27
+2025-12-01,SKN-03,UV Sunscreen,Skincare,Marketplace,Java,237,79000,22000,219,18
+2025-12-08,SKN-03,UV Sunscreen,Skincare,Marketplace,Java,229,79000,22000,211,18
+2025-12-15,SKN-03,UV Sunscreen,Skincare,Marketplace,Java,294,79000,22000,218,76
+2025-12-22,SKN-03,UV Sunscreen,Skincare,Marketplace,Java,177,79000,22000,170,7
+2025-10-06,SKN-03,UV Sunscreen,Skincare,Marketplace,Sumatra,119,79000,22000,93,26
+2025-10-13,SKN-03,UV Sunscreen,Skincare,Marketplace,Sumatra,116,79000,22000,98,18
+2025-10-20,SKN-03,UV Sunscreen,Skincare,Marketplace,Sumatra,99,79000,22000,122,23
+2025-10-27,SKN-03,UV Sunscreen,Skincare,Marketplace,Sumatra,120,79000,22000,103,17
+2025-11-03,SKN-03,UV Sunscreen,Skincare,Marketplace,Sumatra,127,79000,22000,118,9
+2025-11-10,SKN-03,UV Sunscreen,Skincare,Marketplace,Sumatra,126,79000,22000,107,19
+2025-11-17,SKN-03,UV Sunscreen,Skincare,Marketplace,Sumatra,148,79000,22000,115,33
+2025-11-24,SKN-03,UV Sunscreen,Skincare,Marketplace,Sumatra,128,79000,22000,119,9
+2025-12-01,SKN-03,UV Sunscreen,Skincare,Marketplace,Sumatra,132,79000,22000,133,1
+2025-12-08,SKN-03,UV Sunscreen,Skincare,Marketplace,Sumatra,122,79000,22000,134,12
+2025-12-15,SKN-03,UV Sunscreen,Skincare,Marketplace,Sumatra,162,79000,22000,125,37
+2025-12-22,SKN-03,UV Sunscreen,Skincare,Marketplace,Sumatra,126,79000,22000,141,15
+2025-10-06,SKN-03,UV Sunscreen,Skincare,Modern Trade,Bali-Nusra,52,79000,22000,60,8
+2025-10-13,SKN-03,UV Sunscreen,Skincare,Modern Trade,Bali-Nusra,63,79000,22000,59,4
+2025-10-20,SKN-03,UV Sunscreen,Skincare,Modern Trade,Bali-Nusra,64,79000,22000,58,6
+2025-10-27,SKN-03,UV Sunscreen,Skincare,Modern Trade,Bali-Nusra,49,79000,22000,62,13
+2025-11-03,SKN-03,UV Sunscreen,Skincare,Modern Trade,Bali-Nusra,74,79000,22000,59,15
+2025-11-10,SKN-03,UV Sunscreen,Skincare,Modern Trade,Bali-Nusra,95,79000,22000,70,25
+2025-11-17,SKN-03,UV Sunscreen,Skincare,Modern Trade,Bali-Nusra,71,79000,22000,68,3
+2025-11-24,SKN-03,UV Sunscreen,Skincare,Modern Trade,Bali-Nusra,66,79000,22000,79,13
+2025-12-01,SKN-03,UV Sunscreen,Skincare,Modern Trade,Bali-Nusra,83,79000,22000,76,7
+2025-12-08,SKN-03,UV Sunscreen,Skincare,Modern Trade,Bali-Nusra,123,79000,22000,105,18
+2025-12-15,SKN-03,UV Sunscreen,Skincare,Modern Trade,Bali-Nusra,84,79000,22000,86,2
+2025-12-22,SKN-03,UV Sunscreen,Skincare,Modern Trade,Bali-Nusra,81,79000,22000,80,1
+2025-10-06,SKN-03,UV Sunscreen,Skincare,Modern Trade,Java,132,79000,22000,131,1
+2025-10-13,SKN-03,UV Sunscreen,Skincare,Modern Trade,Java,127,79000,22000,117,10
+2025-10-20,SKN-03,UV Sunscreen,Skincare,Modern Trade,Java,117,79000,22000,120,3
+2025-10-27,SKN-03,UV Sunscreen,Skincare,Modern Trade,Java,138,79000,22000,115,23
+2025-11-03,SKN-03,UV Sunscreen,Skincare,Modern Trade,Java,174,79000,22000,125,49
+2025-11-10,SKN-03,UV Sunscreen,Skincare,Modern Trade,Java,164,79000,22000,145,19
+2025-11-17,SKN-03,UV Sunscreen,Skincare,Modern Trade,Java,145,79000,22000,143,2
+2025-11-24,SKN-03,UV Sunscreen,Skincare,Modern Trade,Java,150,79000,22000,146,4
+2025-12-01,SKN-03,UV Sunscreen,Skincare,Modern Trade,Java,145,79000,22000,131,14
+2025-12-08,SKN-03,UV Sunscreen,Skincare,Modern Trade,Java,174,79000,22000,144,30
+2025-12-15,SKN-03,UV Sunscreen,Skincare,Modern Trade,Java,169,79000,22000,141,28
+2025-12-22,SKN-03,UV Sunscreen,Skincare,Modern Trade,Java,143,79000,22000,139,4
+2025-10-06,SKN-03,UV Sunscreen,Skincare,Modern Trade,Sumatra,86,79000,22000,83,3
+2025-10-13,SKN-03,UV Sunscreen,Skincare,Modern Trade,Sumatra,88,79000,22000,86,2
+2025-10-20,SKN-03,UV Sunscreen,Skincare,Modern Trade,Sumatra,94,79000,22000,87,7
+2025-10-27,SKN-03,UV Sunscreen,Skincare,Modern Trade,Sumatra,86,79000,22000,86,0
+2025-11-03,SKN-03,UV Sunscreen,Skincare,Modern Trade,Sumatra,107,79000,22000,99,8
+2025-11-10,SKN-03,UV Sunscreen,Skincare,Modern Trade,Sumatra,127,79000,22000,96,31
+2025-11-17,SKN-03,UV Sunscreen,Skincare,Modern Trade,Sumatra,116,79000,22000,111,5
+2025-11-24,SKN-03,UV Sunscreen,Skincare,Modern Trade,Sumatra,102,79000,22000,105,3
+2025-12-01,SKN-03,UV Sunscreen,Skincare,Modern Trade,Sumatra,107,79000,22000,106,1
+2025-12-08,SKN-03,UV Sunscreen,Skincare,Modern Trade,Sumatra,102,79000,22000,111,9
+2025-12-15,SKN-03,UV Sunscreen,Skincare,Modern Trade,Sumatra,98,79000,22000,112,14
+2025-12-22,SKN-03,UV Sunscreen,Skincare,Modern Trade,Sumatra,107,79000,22000,101,6
