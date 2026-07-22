@@ -2,6 +2,10 @@
 
 An end-to-end analytics portfolio project that converts weekly beauty-product sales into demand forecasts and practical replenishment decisions. Built to demonstrate business analytics, predictive modeling, and decision communication for FMCG data roles.
 
+## Project Presentation
+
+- [View the final presentation as PDF](05_Presentation/Beauty_FMCG_Inventory_Optimization.pdf)
+
 ## Business problem
 
 Beauty FMCG teams must balance product availability with working-capital efficiency. Underforecasting creates stockouts and missed sales; overforecasting locks cash in slow-moving inventory. This project answers:
@@ -55,6 +59,8 @@ The demonstrator assumes a two-week lead time and a 95% cycle service level. The
 ## Repository structure
 
 ```
+├── 05_Presentation/
+│   └── Beauty_FMCG_Inventory_Optimization.pdf
 ├── data/
 │   ├── processed/beauty_fmcg_weekly_sales.csv
 │   └── README.md
