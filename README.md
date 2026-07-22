@@ -4,7 +4,7 @@ An end-to-end analytics portfolio project that converts weekly beauty-product sa
 
 ## Project Presentation
 
-- [View the final presentation as PDF](05_Presentation/Beauty_FMCG_Inventory_Optimization.pdf)
+- [View the final presentation as PDF](presentation/Beauty_FMCG_Inventory_Optimization.pdf)
 
 ## Business problem
 
@@ -59,7 +59,7 @@ The demonstrator assumes a two-week lead time and a 95% cycle service level. The
 ## Repository structure
 
 ```
-├── 05_Presentation/
+├── presentation/
 │   └── Beauty_FMCG_Inventory_Optimization.pdf
 ├── data/
 │   ├── processed/beauty_fmcg_weekly_sales.csv
