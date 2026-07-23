@@ -12,8 +12,8 @@ from sklearn.pipeline import Pipeline
 from sklearn.preprocessing import OneHotEncoder
 
 ROOT = Path(__file__).resolve().parents[1]
-DATA = ROOT / "data" / "processed" / "beauty_fmcg_weekly_sales.csv"
-OUT = ROOT / "outputs"
+DATA = ROOT / "03_Data" / "processed" / "beauty_fmcg_weekly_sales.csv"
+OUT = ROOT / "04_Output"
 FIG = OUT / "figures"
 OUT.mkdir(exist_ok=True); FIG.mkdir(exist_ok=True)
 
@@ -58,12 +58,11 @@ forecast["forecast_units"] = np.rint(pred).astype(int)
 forecast["abs_error"] = (forecast.units_sold - forecast.forecast_units).abs()
 forecast.to_csv(OUT / "test_forecasts.csv", index=False)
 
-# Inventory planning for the next replenishment cycle using the latest model forecast.
 latest = forecast.sort_values("date").groupby(keys, as_index=False).tail(1).copy()
 std = df.groupby(keys, observed=True).units_sold.std().rename("demand_std").reset_index()
 latest = latest.merge(std, on=keys)
 latest["lead_time_weeks"] = 2
-latest["service_level_z"] = 1.645  # 95% cycle service level
+latest["service_level_z"] = 1.645
 latest["safety_stock"] = np.ceil(latest.service_level_z * latest.demand_std * np.sqrt(latest.lead_time_weeks)).astype(int)
 latest["reorder_point"] = np.ceil(latest.forecast_units * latest.lead_time_weeks + latest.safety_stock).astype(int)
 rng = np.random.default_rng(42)

@@ -1,38 +1,104 @@
-# Beauty FMCG Demand Forecasting & Inventory Optimization
+# Beauty FMCG Demand Forecasting and Inventory Optimization
 
-An end-to-end analytics portfolio project that converts weekly beauty-product sales into demand forecasts and practical replenishment decisions. Built to demonstrate business analytics, predictive modeling, and decision communication for FMCG data roles.
+![Python](https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-Demand%20Forecasting-F7931E?logo=scikitlearn&logoColor=white)
+![Domain](https://img.shields.io/badge/Domain-FMCG%20Analytics-C2185B)
+![Focus](https://img.shields.io/badge/Focus-Inventory%20Optimization-6C4AB6)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-## Project Presentation
+An end-to-end analytics portfolio project that transforms weekly beauty-product sales into demand forecasts and actionable inventory decisions. The project demonstrates business problem framing, time-aware predictive modeling, model evaluation, and decision communication for FMCG data and analytics roles.
 
-- [View the final presentation as PDF](presentation/Beauty_FMCG_Inventory_Optimization.pdf)
+**Author:** Mohammad Maliki Rafli  
+**Program:** Master of Public Health, Universitas Airlangga
 
-## Business problem
+## Table of Contents
 
-Beauty FMCG teams must balance product availability with working-capital efficiency. Underforecasting creates stockouts and missed sales; overforecasting locks cash in slow-moving inventory. This project answers:
+- [Project Overview](#project-overview)
+- [Project Materials](#project-materials)
+- [Business Objective](#business-objective)
+- [Repository Structure](#repository-structure)
+- [Analytical Workflow](#analytical-workflow)
+- [Model and Evaluation](#model-and-evaluation)
+- [Key Results](#key-results)
+- [Selected Visualizations](#selected-visualizations)
+- [Inventory Decision Framework](#inventory-decision-framework)
+- [Data Transparency](#data-transparency)
+- [Reproducing the Analysis](#reproducing-the-analysis)
+- [Limitations](#limitations)
+- [Recommendations](#recommendations)
+- [License and Portfolio Use](#license-and-portfolio-use)
+- [Contact](#contact)
 
-1. How does demand vary by product, channel, region, promotion, and season?
-2. Can a time-aware machine-learning model outperform a last-week baseline?
-3. Which SKU–channel–region combinations require replenishment or show overstock risk?
+## Project Overview
 
-## Dataset
+Beauty FMCG businesses must maintain product availability while controlling working capital. Underforecasting can create stockouts and lost sales, whereas overforecasting can increase inventory holding costs and slow-moving stock.
 
-The project uses a reproducible **synthetic dataset** containing weekly sales for 6 fictional SKUs, 3 channels, and 3 Indonesian market regions during 2024–2025. It contains no proprietary or personal data. The generator explicitly models trend, seasonality, Ramadan/year-end uplift, promotion, marketing, and random demand variation.
+This project uses a reproducible synthetic dataset to demonstrate how sales history, promotions, marketing expenditure, seasonality, product characteristics, sales channels, and market regions can support demand forecasting and replenishment decisions.
 
-## Analytical workflow
+## Project Materials
+
+- [View the final presentation](05_Presentation/Beauty_FMCG_Demand_Forecasting_and_Inventory_Optimization.pdf)
+- [Read the analytical report](01_Report/Beauty_FMCG_Demand_Forecasting_Analytical_Report.md)
+- [Review model metrics](04_Output/model_metrics.json)
+- [Review inventory recommendations](04_Output/inventory_recommendations.csv)
+
+## Business Objective
+
+1. Examine demand variation across products, categories, channels, regions, promotions, and seasonal periods.
+2. Assess whether a time-aware machine-learning model outperforms a naïve last-week baseline.
+3. Identify SKU–channel–region combinations requiring replenishment or indicating potential overstock.
+
+## Repository Structure
+
+```text
+.
+├── 01_Report/
+│   └── Beauty_FMCG_Demand_Forecasting_Analytical_Report.md
+├── 02_Script/
+│   ├── generate_data.py
+│   └── run_analysis.py
+├── 03_Data/
+│   ├── README.md
+│   └── processed/
+│       └── beauty_fmcg_weekly_sales.csv
+├── 04_Output/
+│   ├── figures/
+│   │   ├── forecast_vs_actual.png
+│   │   └── weekly_demand.png
+│   ├── category_performance.csv
+│   ├── inventory_recommendations.csv
+│   ├── model_metrics.json
+│   └── test_forecasts.csv
+├── 05_Presentation/
+│   └── Beauty_FMCG_Demand_Forecasting_and_Inventory_Optimization.pdf
+├── .gitignore
+├── LICENSE
+├── README.md
+└── requirements.txt
+```
+
+## Analytical Workflow
 
 ```mermaid
 flowchart LR
-    A[Synthetic weekly sales] --> B[Quality checks and features]
-    B --> C[Time-based holdout]
-    C --> D[Demand forecast]
-    D --> E[Baseline evaluation]
-    E --> F[Safety stock and reorder point]
-    F --> G[Inventory action]
+    A[Synthetic weekly sales] --> B[Data quality checks]
+    B --> C[Time-based feature engineering]
+    C --> D[Temporal train-holdout split]
+    D --> E[Demand forecasting model]
+    E --> F[Baseline comparison]
+    F --> G[Safety stock and reorder point]
+    G --> H[Inventory action recommendations]
 ```
 
-The model uses lagged demand, rolling statistics, calendar signals, promotion, marketing, product, channel, and region. Data before October 2025 is used for training; later observations form an untouched holdout set. Performance is reported with MAE, RMSE, and WAPE and compared with a naïve last-week forecast.
+Observations before October 2025 are used for training, while later observations form an untouched temporal holdout set. Predictors include demand lags, rolling statistics, calendar indicators, promotion status, discounts, marketing expenditure, category, channel, and region.
 
-## Key results
+## Model and Evaluation
+
+**Model:** `HistGradientBoostingRegressor` with one-hot encoding for categorical predictors.  
+**Benchmark:** naïve last-week demand forecast.  
+**Metrics:** MAE, RMSE, and WAPE.
+
+## Key Results
 
 | Holdout metric | Forecast model | Last-week baseline | Improvement |
 |---|---:|---:|---:|
@@ -40,66 +106,77 @@ The model uses lagged demand, rolling statistics, calendar signals, promotion, m
 | RMSE | 17.71 units | 25.51 units | 30.6% |
 | WAPE | 14.68% | 21.05% | 30.3% |
 
-In the illustrative inventory scenario, 27 of 54 SKU–channel–region combinations are flagged for replenishment, with 1,272 recommended units in total; 7 combinations show overstock risk. Skincare is the largest category, contributing approximately IDR 24.6 billion in simulated net revenue. These figures describe synthetic data and should be interpreted as a decision-workflow demonstration.
+In the illustrative inventory scenario:
 
-![Holdout forecast versus actual demand](outputs/figures/forecast_vs_actual.png)
+- **27 of 54** SKU–channel–region combinations were flagged for replenishment.
+- The total recommended replenishment quantity was **1,272 units**.
+- **7 combinations** were flagged as potential overstock.
+- Skincare contributed approximately **IDR 24.6 billion** in simulated net revenue.
 
-![Weekly demand](outputs/figures/weekly_demand.png)
+These results use synthetic data and demonstrate the decision workflow rather than real commercial impact.
 
-## Decision framework
+## Selected Visualizations
 
-Safety stock and reorder point are calculated as:
+### Holdout forecast versus actual demand
+
+![Holdout forecast versus actual demand](04_Output/figures/forecast_vs_actual.png)
+
+### Weekly demand trend
+
+![Weekly demand across beauty products](04_Output/figures/weekly_demand.png)
+
+## Inventory Decision Framework
 
 `Safety stock = z × demand standard deviation × √lead time`
 
 `Reorder point = forecast demand × lead time + safety stock`
 
-The demonstrator assumes a two-week lead time and a 95% cycle service level. These are scenario assumptions, not universal policy recommendations.
+The demonstrator assumes a two-week lead time and a 95% cycle service level (`z = 1.645`). These assumptions should be calibrated to product criticality, supplier performance, shelf life, and service-level targets before operational use.
 
-## Repository structure
+## Data Transparency
 
-```
-├── presentation/
-│   └── Beauty_FMCG_Inventory_Optimization.pdf
-├── data/
-│   ├── processed/beauty_fmcg_weekly_sales.csv
-│   └── README.md
-├── outputs/
-│   ├── figures/
-│   ├── category_performance.csv
-│   ├── inventory_recommendations.csv
-│   ├── model_metrics.json
-│   └── test_forecasts.csv
-├── src/
-│   ├── generate_data.py
-│   └── run_analysis.py
-├── LICENSE
-├── README.md
-└── requirements.txt
-```
+The dataset is fully synthetic and contains no confidential company, customer, or personal information. It represents six fictional beauty products across three sales channels and three Indonesian market regions during 2024–2025.
 
-## Reproduce
+## Reproducing the Analysis
 
 ```bash
+git clone https://github.com/mohmalikirafli/beauty-fmcg-demand-forecasting.git
+cd beauty-fmcg-demand-forecasting
 python -m venv .venv
-source .venv/bin/activate  # Windows: .venv\Scripts\activate
+# Windows: .venv\Scripts\activate
+# macOS/Linux: source .venv/bin/activate
 pip install -r requirements.txt
-python src/generate_data.py
-python src/run_analysis.py
+python 02_Script/generate_data.py
+python 02_Script/run_analysis.py
 ```
 
-## Business use
-
-The output table ranks combinations that need replenishment, estimates order quantities, and flags potential overstock. In a production setting, the next step would be to replace synthetic inputs with ERP data, tune lead times and service levels by SKU class, incorporate supplier constraints, and monitor forecast drift.
+The generated dataset is saved in `03_Data/processed/`, while analytical outputs and figures are saved in `04_Output/`.
 
 ## Limitations
 
-- Synthetic demand is useful for demonstrating the workflow but cannot establish real commercial impact.
-- The holdout evaluation is historical and does not simulate all supply-chain constraints.
-- Inventory recommendations simplify minimum order quantity, shelf life, case packs, and supplier capacity.
+- Synthetic demand cannot establish real-world commercial performance.
+- Evaluation uses one temporal holdout rather than rolling-origin cross-validation.
+- Inventory logic excludes minimum order quantity, case packs, shelf life, supplier capacity, and stockout costs.
+- Lead time and service level are fixed across all SKU combinations.
+- Competitor activity, price elasticity, distribution coverage, and macroeconomic variables are not modeled.
 
-## Author
+## Recommendations
 
-**Mohammad Maliki Rafli** — Public Health master's student focusing on Biostatistics and Health Data Science.
+- Replace synthetic inputs with validated ERP, sell-in, sell-out, promotion, and inventory data.
+- Apply rolling-origin backtesting.
+- Segment service levels and lead times by SKU importance and demand volatility.
+- Incorporate order constraints, shelf life, and supplier capacity.
+- Monitor forecast bias, WAPE, stockouts, overstock, and model drift.
+- Compare machine learning with statistical and hierarchical forecasting methods.
 
-Open to discussion about the analysis, data assumptions, or potential collaboration.
+## License and Portfolio Use
+
+The source code is available under the [MIT License](LICENSE). The report, presentation, figures, and portfolio materials remain the intellectual work of the author and should receive appropriate attribution when referenced or adapted.
+
+## Contact
+
+For questions, professional discussion, or collaboration, contact **Mohammad Maliki Rafli** through the [GitHub profile](https://github.com/mohmalikirafli) or open an [issue](https://github.com/mohmalikirafli/beauty-fmcg-demand-forecasting/issues).
+
+---
+
+This repository is intended for portfolio purposes in FMCG analytics, demand forecasting, and inventory optimization.

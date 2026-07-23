@@ -4,7 +4,7 @@ import numpy as np
 import pandas as pd
 
 ROOT = Path(__file__).resolve().parents[1]
-OUT = ROOT / "data" / "processed"
+OUT = ROOT / "03_Data" / "processed"
 OUT.mkdir(parents=True, exist_ok=True)
 rng = np.random.default_rng(20260721)
 
